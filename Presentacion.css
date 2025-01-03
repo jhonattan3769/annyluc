@@ -1,0 +1,13 @@
+     body {font-family: 'Times New Roman', Times, serif;margin: 0;padding: 0;}
+       
+        h1 {color: white;margin: 0;}
+        h2 {color: white;margin: 0;}
+        .nya{color: rgb(229, 236, 232);text-align: center;font-size: 150%;}
+        .container {display: flex; justify-content: center;  align-items: center;  flex-wrap: wrap;  padding: 20px;}
+        .image-container { width: 250px;  margin: 10px;}
+        .image-container img { width: 100%; height: auto; }
+        .menu {  display: flex; justify-content: center; align-items: center; flex-wrap: wrap; padding: 20px;}
+        .menu-item {  background-color: black;  padding: 10px 20px; margin: 10px; text-align: center;   text-decoration: none;
+             color: #b6b5b5;border-radius: 5px;}
+        .menu-item:hover {background-color: rgb(112, 112, 112);}
+        .container1 { display: flex; justify-content: center; padding: 0%; }
